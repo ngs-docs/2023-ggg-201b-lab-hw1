@@ -1,0 +1,11 @@
+.snakemake/
+SRR2584857_1.ecoli-rel606.bam
+SRR2584857_1.ecoli-rel606.bam.sorted
+SRR2584857_1.ecoli-rel606.bcf
+SRR2584857_1.ecoli-rel606.pileup
+SRR2584857_1.ecoli-rel606.sam
+SRR2584857_1.ecoli-rel606.vcf
+SRR2584857_1.fastq.gz
+ecoli-rel606.fa
+ecoli-rel606.fa.fai
+ecoli-rel606.fa.gz
