@@ -1,7 +1,3 @@
-rule all:
-    input:
-        "SRR2584857_1.x.ecoli-rel606.vcf"
-
 rule download_genome:
     output: "ecoli-rel606.fa.gz"
     shell:
